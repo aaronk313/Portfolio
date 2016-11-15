@@ -8,7 +8,7 @@ My portfolio of exercises in learning Data Science. This portfolio will be updat
 - Project 4: Web Scraping + Logistic Regression (Under Revision)
 - Project 5: Titanic Revisited - Remote DB
 - Project 6: IMDB API + Random Forests
-- Project 7: Airport Delays + Cluster Analysis
+- Project 7: Airport Delays + Cluster Analysis (Under Revision)
 
 During my experience at General Assembly, I learned and demonstrated skill sets in Data Science methodologies in practical real world scenarios. The logic behind some of the approaches taken to the solutions are explained in the respective ReadMe which we were required to follow. 
 
