@@ -5,7 +5,7 @@ My portfolio of exercises in learning Data Science. This portfolio will be updat
 - Project 1: SAT Scores
 - Project 2: Lucid Titanic Sleuthing
 - Project 3: Liquor Sales + Linear Regression
-- Project 4: Web Scraping + Logistic Regression
+- Project 4: Web Scraping + Logistic Regression (Under Revision)
 - Project 5: Titanic Revisited - Remote DB
 - Project 6: IMDB API + Random Forests
 - Project 7: Airport Delays + Cluster Analysis
