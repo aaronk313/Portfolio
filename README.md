@@ -2,13 +2,13 @@
 
 My portfolio of exercises in learning Data Science. This portfolio will be updated on a rolling basis as new techniques and concepts are being explored.
 
-- Project 1: SAT Scores
-- Project 2: Lucid Titanic Sleuthing
-- Project 3: Liquor Sales + Linear Regression
-- Project 4: Web Scraping + Logistic Regression (Under Revision)
-- Project 5: Titanic Revisited - Remote DB
-- Project 6: IMDB API + Random Forests
-- Project 7: Airport Delays + Cluster Analysis (Under Revision)
+- Project: SAT Scores
+- Project: Lucid Titanic Sleuthing
+- Project: Liquor Sales + Linear Regression
+- Project: Web Scraping + Logistic Regression (Under Revision)
+- Project: Titanic Revisited - Remote DB
+- Project: IMDB API + Random Forests
+- Project: Airport Delays + Cluster Analysis (Under Revision)
 
 During my experience at General Assembly, I learned and demonstrated skill sets in Data Science methodologies in practical real world scenarios. The logic behind some of the approaches taken to the solutions are explained in the respective ReadMe which we were required to follow. 
 
